@@ -3,6 +3,8 @@
     width: 100vw;
     padding: 10px;
     background-color: darkgray;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
 }
 
 .btn {
