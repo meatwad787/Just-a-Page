@@ -1,0 +1,16 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    padding: 10px;
+    background-color: darkgray;
+}
+
+.btn {
+    background-color: darkgray;
+    border: none;
+    color: white;
+    /* margin-top: 4px; */
+} .btn:hover {
+    background-color: rgba(128, 128, 128, 0.336);
+    border-radius: 0.3rem;
+}
